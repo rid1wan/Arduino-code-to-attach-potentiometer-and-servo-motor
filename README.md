@@ -1,0 +1,1 @@
+# Arduino-code-to-attach-potentiometer-and-servo-motor
